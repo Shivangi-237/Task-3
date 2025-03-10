@@ -29,3 +29,11 @@ Multi-threading: Ensuring each client has an independent thread to handle messag
 Message Broadcasting: Allowing group chat functionality where messages from one client are shared with all others.
 Client Management: Tracking active users and removing disconnected clients to maintain an updated list of participants.
 Overall, this Java chat application provides a fundamental implementation of network-based messaging, focusing on server-client communication, multi-threading, and real-time message exchange. It ensures efficient handling of multiple users, making it a reliable example of basic group chat functionality using Java networking.
+
+OUTPUT
+
+![Image](https://github.com/user-attachments/assets/64947072-7689-4338-a882-861a8027d08e)
+
+![Image](https://github.com/user-attachments/assets/c658aa02-73ca-4eef-9d47-6816e6544287)
+
+![Image](https://github.com/user-attachments/assets/a97ed3b6-f3fd-48ca-b266-8e06163a28af)
